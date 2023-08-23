@@ -1,4 +1,3 @@
-# Richy97
 👋 Hi, I'm Ricsi (Richie)
 📚 Interested in programming
 👨‍💻 Experience in: PHP, HTML, CSS, ASP.NET, SQL
